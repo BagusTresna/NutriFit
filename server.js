@@ -1,5 +1,6 @@
 const Hapi = require('@hapi/hapi');
-const userRoutes = require('./routes'); // Impor rute dari routes.js
+const userRoutes = require('./user-api/routes'); // Impor rute dari routes.js
+const articleRoutes = require('./article-api/routes');
 
 const init = async() => {
     const server = Hapi.server({
@@ -7,7 +8,7 @@ const init = async() => {
         host: 'localhost',
     });
 
-    server.route(userRoutes); // Menambahkan rute API
+    server.route([...userRoutes, ...articleRoutes]);
 
     await server.start();
     console.log(`Server berjalan pada ${server.info.uri}`);
