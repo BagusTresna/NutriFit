@@ -1,0 +1,15 @@
+NutriFit-API/
+├── config/
+│   └── firebase-credentials.json          # Kredensial untuk koneksi ke Firestore
+├── node_modules/                          # Folder untuk modul Node.js
+├── user-api/                              # Folder utama untuk API terkait user
+│   ├── routes.js                          # Definisi rute untuk endpoint user
+│   ├── handler.js                         # Logika handler untuk operasi CRUD user
+│   ├── login.js                           # Login
+├──article-api/
+│   ├── routes.js                          
+│   ├── handler.js   
+├── server.js                     
+├── firestore.js  
+├── package.json                           # Konfigurasi dan dependencies proyek
+└── package-lock.json                      # File yang mengunci versi dependencies
