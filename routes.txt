@@ -9,7 +9,8 @@ NutriFit-API/
 ├──article-api/
 │   ├── routes.js                          
 │   ├── handler.js   
-├── server.js                     
+├── server.js                    
+├── app.yaml    
 ├── firestore.js  
 ├── package.json                           # Konfigurasi dan dependencies proyek
 └── package-lock.json                      # File yang mengunci versi dependencies
