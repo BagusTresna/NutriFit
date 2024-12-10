@@ -63,13 +63,11 @@ gcloud app deploy
 
   * body response:
     ```json
-  {
     "status": "success",
     "message": "User added successfully",
     "data": {
         "userId": "edchCTtJyCpQrx3ywH3z"
     }
-  }
     ```
 
  *2. Log In*
@@ -92,7 +90,6 @@ gcloud app deploy
 
   * body response:
     ```json
-  {
     "status": "success",
     "message": "User logged in successfully",
     "data": {
@@ -100,7 +97,6 @@ gcloud app deploy
         "email": "pejuangkasta@gmail.com",
         "name": "Sangga"
     }
-  }
     ```
 
 ---
