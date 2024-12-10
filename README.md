@@ -105,10 +105,10 @@ gcloud app deploy
 * Database
 
 ![Google Cloud Storage]()
-![Cloud SQL]()
+![Cloud FIrestore]()
 
 * Deployment
 
-![Cloud Run - Small]()
+![App Engine]()
 
 ---
