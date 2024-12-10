@@ -109,6 +109,6 @@ gcloud app deploy
 
 * Deployment
 
-![1_wih4O4j3KuvnlPDZNmcj8Q](https://github.com/user-attachments/assets/dbdb2d1a-d0a0-4f35-87bd-c32eeb09039f)
+![1_wih4O4j3KuvnlPDZNmcj8Q](https://github.com/user-attachments/assets/6cdbee19-4cb0-4088-8154-6c69fc721316)
 
 ---
