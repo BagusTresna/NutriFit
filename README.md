@@ -1,6 +1,7 @@
 # NutriFit API
 
 ## NutriFit Cloud Architecture
+![architecture drawio (1)](https://github.com/user-attachments/assets/f5c7e42a-9436-4884-8433-fdd42453892b)
 
 ## Get Started
 Clone `repository` with command: 
