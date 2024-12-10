@@ -105,7 +105,7 @@ gcloud app deploy
 * Database
 
 ![246346468-f1c514de-9c6e-4504-b9ed-1a899b8f47b8](https://github.com/user-attachments/assets/f5134e28-5f35-48be-b10a-3bc72efd8137)
-![image](https://github.com/user-attachments/assets/3eb35fec-ebc1-4dc4-aa1b-d3d7663d3cc7)
+![image](https://github.com/user-attachments/assets/6ef57052-da2b-4e1a-86b8-a2cd07cc6c35)
 
 * Deployment
 
